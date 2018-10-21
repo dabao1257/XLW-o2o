@@ -25,4 +25,6 @@ public class ShopAdminController {
 		
 		return "shop/shopmanage";
 	}
+	
+
 }
